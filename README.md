@@ -4,7 +4,7 @@ Software engineer with a demonstrated history of working in distributed computin
 
 I possess a broad range of experience including but not limited to: java based microservices architecture, distributed computing, owning and developing an entire CI/CD pipeline, AWS Cloud deployment, system-level database programming (in a massively parallel environment), and machine learning. Excellent team player with good communication skills. Currently pursuing my Master's degree in CS from USC - Expected graduation date May 2021.
 
-I'm actively seeking software engineering opportunities for Winter/Spring 2021 (Co-op/Internship positions, i.e. from Jan-May 2021) and Full-time positions starting May 2021. For more: https://www.linkedin.com/in/adityachandupatla/
+For more: https://www.linkedin.com/in/adityachandupatla/
 
 ![image](https://github.com/adityachandupatla/adityachandupatla/blob/main/dino.gif)
 
