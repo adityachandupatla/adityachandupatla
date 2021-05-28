@@ -2,7 +2,7 @@
 
 Software engineer with a demonstrated history of working in distributed computing and database industry. I bring academic expertise coupled with Industry best-practises to the table.
 
-I possess a broad range of experience including but not limited to: java based microservices architecture, distributed computing, owning and developing an entire CI/CD pipeline, AWS Cloud deployment, system-level database programming (in a massively parallel environment), and machine learning. Excellent team player with good communication skills. Currently pursuing my Master's degree in CS from USC - Expected graduation date May 2021.
+I possess a broad range of experience including but not limited to: java based microservices architecture, distributed computing, owning and developing an entire CI/CD pipeline, AWS Cloud deployment, system-level database programming (in a massively parallel environment), and machine learning. Excellent team player with good communication skills. Graduated with a Master's degree in CS from USC.
 
 For more: https://www.linkedin.com/in/adityachandupatla/
 
